@@ -20,5 +20,6 @@ Path_Finder.py calls generate_obstacle function from Obstacle_generator.py to ge
 
 it uses RRT algorithm to navigate between start point and goal point 
 
+The plt.plot in Path_Finder.py is for visualisation of running of code. if we remove it the code will execute within fraction of second
 
 
